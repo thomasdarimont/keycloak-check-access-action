@@ -9,4 +9,4 @@ mvn clean package
 ```
 
 # Deploy
-Add `keycloak-check-access-action.jar` to `$KEYCLOAK_HOME/providers` folder.
+Add `target/keycloak-check-access-action.jar` to `$KEYCLOAK_HOME/providers` folder.
